@@ -1,7 +1,6 @@
 ### Spring cloud example
 
+- Contains configuration properties for milk app services.
 
-- Contains configuration properties for different services.
-- Uses spring default profile.
+Milk app : https://github.com/Slidem/Milk-app-with-spring-cloud
 
-Enjoy!
